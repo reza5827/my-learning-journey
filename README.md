@@ -5,7 +5,7 @@ sudo apt install
 #DEX Arbitrage Bot
 Cross-DEX arbitrage bot.
 - Multi-DEX support
-- MEV protection
+-  protection
 - Flash loan integration
 - Real-time execution
 #License
